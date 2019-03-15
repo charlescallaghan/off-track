@@ -1,12 +1,19 @@
-# Off-Track App
+# 🌲🎵Off-Track App 🎵🌲
 
 #### WE ARE THE FIRST COMBINING MUSIC, URBAN NATURE, EXERCISE & MEDITATION IN ONE. 
+## (App is in the process of being deployed to the Play & App stores.)
 
 <img src="https://github.com/matiasmateu/off-track/blob/master/src/images/offtrack1.png" width="400"></img>
 <img src="https://github.com/matiasmateu/off-track/blob/master/src/images/offtrack2.png" width="400"></img>
 
+## What this project is about
 
----
+Off-Track is a group project I worked on to build a mobile application for an artist and composer who wanted to make her musical walks available to individuals. It is built using React-Native and Redux (with a simple landing web page in React)
+
+## Table of contents:
+
+- **[Intro](#intro)**
+- **[Architecture](#create-react-app)**
 
 ## Intro
 
@@ -36,7 +43,7 @@ This app launches with a [React web app](https://reactjs.org/) and [React Native
 #### 1. Clone and Install
 
 
-git clone https://github.com/matiasmateu/off-track.git
+git clone https://github.com/charlescallaghan/off-track.git
 
 #### 2. Install dependencies
 ```bash
@@ -63,7 +70,6 @@ Instructions are shown in the terminal. You can select to open it in:
 npm run web
 ```
 
----
-# Architecture
+## Architecture
 
 <img src="https://github.com/matiasmateu/off-track/blob/master/src/images/architecture.png" alt="arch" />
